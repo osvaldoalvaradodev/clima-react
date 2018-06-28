@@ -1,0 +1,46 @@
+
+
+
+.wheaterDataCont{
+    background-color:rgba(138, 43, 226, 0.31);
+    width:400px;
+    height: 90px;
+    border-radius: 10px;
+}
+
+.wheatherExtraInfo{
+  
+    display: inline-block;
+    font-size:20px;
+    margin: 10px;
+}
+
+.wicon {
+    color: #FF0000;
+   
+    font-size:60px;
+}
+
+.wheaterTemperatureCont{
+
+    
+    border: solid;
+    width: 50%;
+    display: inline-block;
+    color: blue;
+    border-radius: 10px;
+}
+
+.wind{
+
+    display:block;
+
+}
+
+.mainContainer{
+    background-color: mintcream;
+    width: 400px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}

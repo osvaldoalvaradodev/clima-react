@@ -1,0 +1,22 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "convert-units": "^2.3.4",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-fa": "^5.0.0",
+    "react-fa-icon": "^0.1.4",
+    "react-materialize": "^2.2.1",
+    "react-scripts": "1.1.4",
+    "react-weathericons": "^1.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
